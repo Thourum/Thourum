@@ -1,1 +1,1 @@
-[![Profile Image](./grid.png)]
+![Profile Image](./grid.png)
